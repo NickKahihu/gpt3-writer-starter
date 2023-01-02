@@ -1,2 +1,2 @@
-#Simplify app
+# Simplify app
 Effortlessly understand complex content
