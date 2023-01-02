@@ -8,7 +8,7 @@ const openai = new OpenAIApi(configuration);
 const basePromptPrefix = 
 
 
-`Write me a 150 word count summary that summarizes the text  below and helps the people understand the contents of the text with accurate precise information. Make sure that the summary is written in a such a  way that it's extremely easy to read and understand
+`Write me a 150 word count summary that summarizes the text  below and helps the people understand the contents of the text with accurate precise information. Make sure that the summary is written in a such a  way that it's extremely easy to read and understand. Replace any complex terms with simple terms
 
 Text:`
  ;
